@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "COMPARAR 2 NÚMEROS INTEIROS/1.0.0": {
+        "runtime": {
+          "COMPARAR 2 NÚMEROS INTEIROS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COMPARAR 2 NÚMEROS INTEIROS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

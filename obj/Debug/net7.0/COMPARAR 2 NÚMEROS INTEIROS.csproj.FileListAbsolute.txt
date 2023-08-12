@@ -1,0 +1,15 @@
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\bin\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.exe
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\bin\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.deps.json
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\bin\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.runtimeconfig.json
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\bin\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\bin\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\refint\COMPARAR 2 NÚMEROS INTEIROS.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\COMPARAR 2 NÚMEROS INTEIROS.genruntimeconfig.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\COMPARAR 2 NÚMEROS INTEIROS\obj\Debug\net7.0\ref\COMPARAR 2 NÚMEROS INTEIROS.dll
